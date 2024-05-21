@@ -7,6 +7,17 @@ Android Studio Giraffe|2022.3.1 Patch 1
 ## App Description
 JournalApp is an Android app that allows the user to record daily activities like that in a journal. The user can add new entries by clicking on the 'plus' button, which opens a details journal entry view where the user can enter the title of the app and select the date, start time, and end time. These entries are saved in a room database and can be viewed in a scrollable list view. The user can also edit, delete, or share entries via the app.
 
+## App Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/Nandish02/Journal-App/assets/94218870/0aba4450-1405-4e97-a1be-f2d4a7ac5250"></td>
+    <td><img src="https://github.com/Nandish02/Journal-App/assets/94218870/c1c96d76-373c-4508-8f12-b99baeea4df5"></td>
+    <td><img src="https://github.com/Nandish02/Journal-App/assets/94218870/884fb704-d036-45cf-a361-5081d74584ec"></td>
+    <td><img src="https://github.com/Nandish02/Journal-App/assets/94218870/f0c1b074-16bf-446d-a91a-13484737f9c"></td>
+    <td><img src="https://github.com/Nandish02/Journal-App/assets/94218870/351603cd-361c-45ef-a204-b030a63b86c1"></td>
+  </tr>
+</table>
+
 ---
 ## Task-1
 One change was to be made for the info button in the menu bar which redirected to the info fragment created by the user. The given test case failed since the location for the click was not properly written, hence it pressed the wrong button which resulted in an error. The test case was corrected by changing the location of the click
