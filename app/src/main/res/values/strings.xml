@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">AwesomeJournal</string>
+  <string name="add_entry">Create a New Record</string>
+  <string name="title_label">Task Title</string>
+  <string name="date">Task Date</string>
+  <string name="start_time">Starts At</string>
+  <string name="end_time">Ends At</string>
+  <string name="save_label">Save Task</string>
+  <string name="to">To</string>
+  <string name="record_entry">Record Task</string>
+  <string name="share">Share This Task</string>
+  <string name="delete">Delete This Task</string>
+  <string name="info">Info</string>
+  <string name="success_entry">Task Added Successfully!</string>
+  <string name="update_entry">Task Updated Successfully!</string>
+  <string name="placeholder">This is a Placeholder</string>
+  <string name="hello_blank_fragment">Greetings, Blank Fragment!</string>
+  <string name="info_fragment">Welcome to our Fantastic Task Tracker! This app records your completed and pending tasks, complete with titles, dates, start times, and end times. Use the plus button to add a new task. There's also a delete button to remove tasks, and you can share tasks using any messaging app on your phone.</string>
+  <string name="alert_title">Attention!</string>
+  <string name="alert_message">Are you absolutely sure you want to delete this task?</string>
+  <string name="yes">YES</string>
+  <string name="check_fields">All Fields Must Be Filled!</string>
+  <string name="check_time">Start time should be before End time!</string>
+  <string name="delete_entry">Task Deleted Successfully!</string>
+  <string name="no">NO</string>
+</resources>
