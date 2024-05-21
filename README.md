@@ -1,9 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XNhTFXWh)
 # A4-JournalApp
-
-## Name
-- Anusheel Solanki - 2020B3A70541G (f20200541@goa.bits-pilani.ac.in)
-- Nandish Chokshi - 2020B1A72031G (f20202031@goa.bits-pilani.ac.in)
 
 ## Version of Android Studio Used
 Android Studio Giraffe|2022.3.1 Patch 1
@@ -35,8 +30,3 @@ The INFO button on the EntryList fragment menu bar will prompt a new screen to t
 ## Time Taken to develop the app
 - Approximately 40-45 hours were spent on developing the app.
 ---
-## Pair-Programming
-- 5 (used pair programming thoroughly)
----
-## Difficulty
-- 9/10
