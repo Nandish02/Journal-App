@@ -1,4 +1,5 @@
 # A4-JournalApp
+- Developed the App as a part of the Software Development course CS F314
 
 ## Version of Android Studio Used
 Android Studio Giraffe|2022.3.1 Patch 1
@@ -23,9 +24,9 @@ On the EntryDetailsFragment view menu bar, a SHARE button has been added. It pro
 The INFO button on the EntryList fragment menu bar will prompt a new screen to the user which shows the information related to the app. This is done by adding a new fragment to the package, and loading that fragment to the screen when info is pressed in the menu bar.
 
 ## Task-6
-- We ensured that the app is accessible to visually impaired users by using Android's TalkBack feature, which converts the UI into audio. When navigating the app, the device reads out loud wherever is touched or selected.
+- Ensured that the app is accessible to visually impaired users by using Android's TalkBack feature, which converts the UI into audio. When navigating the app, the device reads out loud wherever is touched or selected.
 - TalkBack provides spoken feedback while swiping through settings or navigating through the app, making the UI accessible for visually impaired individuals.
-- We applied recommendations from the Accessibility Scanner, such as adjusting text scaling and enhancing text contrast to meet suggested contrast ratios. These changes were implemented in the app's UI.
+- Applied recommendations from the Accessibility Scanner, such as adjusting text scaling and enhancing text contrast to meet suggested contrast ratios. These changes were implemented in the app's UI.
 ---
 ## Time Taken to develop the app
 - Approximately 40-45 hours were spent on developing the app.
